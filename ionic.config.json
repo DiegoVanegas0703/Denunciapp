@@ -1,0 +1,8 @@
+{
+  "name": "Denunciapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "2ba03ddf"
+}
